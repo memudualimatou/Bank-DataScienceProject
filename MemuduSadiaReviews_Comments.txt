@@ -1,0 +1,9 @@
+
+Week 9: Data cleaning and transormation
+
+
+- this notebook is great
+- provided the right datatype and name to eacg column'
+- remove all the unknown value
+- calculated the skewed value of each numerical value and campaign and duration are highly skewed
+- decided to keep the ouliers
